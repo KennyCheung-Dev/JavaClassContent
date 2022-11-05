@@ -1,0 +1,54 @@
+package usaco;
+
+public class MyLinkedList<TObject> {
+	
+	Node<TObject> head;
+	
+	public class Node<TData> {
+		Node<TData> next;
+		TData data;
+		
+		public Node(TData data, Node<TData> next) {
+			this.data = data;
+			this.next = next;
+		}
+	}
+	
+	private Node<TObject> GetFirstNode() {
+		return head;
+	}
+	
+	private Node<TObject> GetLastNode() {
+		Node<TObject> temp = head; //Could be null
+		while (temp.next != null) {
+			temp = head.next;
+		}
+		return temp; //Could return null
+	}
+	
+    public void AddToEnd(TObject data) {
+    	Node<TObject> last = GetLastNode();
+    	Node<TObject> newNode = new Node<>(data, null);
+        if (last == null) //If there were no values
+            head = newNode;
+        else
+            last.next = newNode;
+    }
+
+    public void linkBefore(TObject data) {
+    	Node<TObject> newNode = new Node<>(data, head);
+    	head = newNode;
+    }
+    
+    public String toString() {
+		StringBuilder sb = new StringBuilder();
+		sb.append("[");
+		sb.append(head.data);
+		Node<TObject> temp = head;
+		while (temp.next != null) {
+			
+		}
+		sb.append("]");
+		return sb.toString();
+    }
+}

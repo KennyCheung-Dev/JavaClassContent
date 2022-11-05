@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;Java 1-10/src/maincodes&apos;&#x0A;- Original project: &apos;Java 1-9&apos;&#x0A;- Destination element: &apos;Java 1-10/src/maincodes&apos;&#x0A;- Original elements:&#x0A;     maincodes.rgby.java&#x0A;     maincodes.Palindrome.java" description="Copy compilation units" destination="=Java 1-10/src&lt;maincodes" element1="/src&lt;maincodes{rgby.java" element2="/src&lt;maincodes{Palindrome.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1591415565562" units="2" version="1.0"/>
+</session>

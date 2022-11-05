@@ -1,0 +1,9 @@
+if (this == o) return true;
+   Animal animal = (Animal) o;
+         if (o == null || this.getClass() != o.getClass())
+ return false;
+    }
+if (age == animal.age && name.equals(animal.name))
+ return true;
+ else
+ return false;

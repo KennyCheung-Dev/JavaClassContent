@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;CCC10_teaching.CCC2013J3_IconScaling&apos; to &apos;SimpleEncryption&apos;&#x0A;- Original project: &apos;CCC Teaching&apos;&#x0A;- Original element: &apos;CCC10_teaching.CCC2013J3_IconScaling&apos;&#x0A;- Renamed element: &apos;CCC10_teaching.SimpleEncryption&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;CCC2013J3_IconScaling&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;CCC10_teaching{CCC2013J3_IconScaling.java[CCC2013J3_IconScaling" matchStrategy="1" name="SimpleEncryption" qualified="false" references="true" similarDeclarations="false" stamp="1606090203313" textual="false" version="1.0"/>
+</session>

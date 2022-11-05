@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="org.eclipse.jdt.ui.last.selected.jre.kind2" value="1"/>
+	<item key="org.eclipse.jdt.ui.last.selected.execution.enviroment" value="JavaSE-12"/>
+	<item key="delegateUpdating" value="false"/>
+	<item key="SearchScopeActionGroup.search_scope_type" value="1"/>
+	<item key="CallHierarchyViewPart.call_mode" value="0"/>
+	<item key="CallHierarchyViewPart.field_mode" value="2"/>
+	<item key="CallHierarchyViewPart.ratio3" value="500"/>
+	<item key="CallHierarchyViewPart.orientation" value="3"/>
+	<item key="CallHierarchyViewPart.ratio0" value="500"/>
+	<item key="TypeHierarchyViewPart.hierarchyview" value="2"/>
+	<item key="TypeHierarchyViewPart.qualifiednames" value="false"/>
+	<item key="TypeHierarchyViewPart.linkeditors" value="false"/>
+	<item key="TypeHierarchyViewPart.orientation" value="3"/>
+	<item key="filters_last_used" value="filter_imports;"/>
+	<item key="org.eclipse.jdt.ui.last.selected.project.jre" value="Java SE 12.0.1 [12.0.1]"/>
+	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
+		<item key="group_libraries" value="true"/>
+		<item key="layout" value="2"/>
+		<item key="rootMode" value="1"/>
+		<item key="linkWithEditor" value="false"/>
+		<item key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;packageExplorer group_libraries=&quot;1&quot; layout=&quot;2&quot; linkWithEditor=&quot;0&quot; rootMode=&quot;1&quot; workingSetName=&quot;Aggregate for window 1586070826053&quot;&gt;&#x0A;&lt;customFilters userDefinedPatternsEnabled=&quot;false&quot;&gt;&#x0A;&lt;xmlDefinedFilters&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.StaticsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.buildship.ui.packageexplorer.filter.gradle.buildfolder&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.mylyn.java.ui.MembersFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.m2e.MavenModuleFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.buildship.ui.packageexplorer.filter.gradle.subProject&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.DeprecatedMembersFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LibraryFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.FieldsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;/xmlDefinedFilters&gt;&#x0A;&lt;/customFilters&gt;&#x0A;&lt;/packageExplorer&gt;"/>
+	</section>
+	<section name="JavaElementSearchActions">
+	</section>
+	<section name="OptionalMessageDialog.hide.">
+		<item key="org.eclipse.jdt.ui.typecomment.deprecated" value="true"/>
+		<item key="configure_problem_severity_dialog_id" value="false"/>
+	</section>
+	<section name="NewClassWizardPage">
+		<item key="create_constructor" value="false"/>
+		<item key="create_unimplemented" value="true"/>
+	</section>
+	<section name="completion_proposal_size">
+	</section>
+	<section name="quick_assist_proposal_size">
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.dialogs.FilteredTypesSelectionDialog">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;History/&gt;"/>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_WIDTH" value="600"/>
+			<item key="DIALOG_X_ORIGIN" value="-149"/>
+			<item key="DIALOG_Y_ORIGIN" value="358"/>
+			<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+		</section>
+	</section>
+	<section name="NewPackageWizardPage">
+		<item key="create_package_info_java" value="false"/>
+	</section>
+	<section name="OverrideMethodDialog">
+		<item key="showtypes" value="true"/>
+	</section>
+	<section name="SourceActionDialog.methods">
+		<item key="FinalModifier" value="false"/>
+		<item key="SynchronizedModifier" value="false"/>
+		<item key="Comments" value="false"/>
+		<item key="InstanceOf" value="false"/>
+		<item key="Blocks" value="false"/>
+		<item key="Objects.equals &amp; Objects.hash" value="false"/>
+		<item key="InsertPosition.v2" value="0"/>
+		<item key="VisibilityModifier" value="1"/>
+	</section>
+	<section name="DialogBounds_OverrideMethodDialog">
+		<item key="DIALOG_X_ORIGIN" value="463"/>
+		<item key="DIALOG_Y_ORIGIN" value="95"/>
+		<item key="DIALOG_WIDTH" value="515"/>
+		<item key="DIALOG_HEIGHT" value="452"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+	<section name="RefactoringWizard.preview">
+		<item key="width" value="600"/>
+		<item key="height" value="400"/>
+	</section>
+	<section name="org.eclipse.ltk.ui.refactoring.settings">
+		<item key="updateSimilarElements" value="false"/>
+		<item key="updateSimilarElementsMatchStrategy" value="1"/>
+		<item key="updateTextualMatches" value="false"/>
+		<item key="updateQualifiedNames" value="false"/>
+		<item key="patterns" value="*"/>
+		<item key="renameSubpackages" value="false"/>
+	</section>
+	<section name="JavadocWizardDialog">
+		<item key="DIALOG_X_ORIGIN" value="695"/>
+		<item key="DIALOG_Y_ORIGIN" value="122"/>
+		<item key="DIALOG_WIDTH" value="677"/>
+		<item key="DIALOG_HEIGHT" value="531"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+	<section name="javadoc">
+		<item key="javadoc_command_history" value="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/bin/javadoc"/>
+		<item key="fromStandard" value="true"/>
+		<item key="docletname" value=""/>
+		<item key="docletpath" value=""/>
+		<item key="access" value="public"/>
+		<item key="use" value="true"/>
+		<item key="author" value="true"/>
+		<item key="version" value="true"/>
+		<item key="nodeprecated" value="false"/>
+		<item key="nodeprecatedlist" value="false"/>
+		<item key="splitindex" value="true"/>
+		<item key="noindex" value="false"/>
+		<item key="notree" value="false"/>
+		<item key="nonavbar" value="false"/>
+		<item key="openinbrowser" value="false"/>
+		<item key="source" value="12"/>
+		<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java1-1/javadoc.xml"/>
+		<item key="destdir" value="/Users/kenny/Desktop/TestJavaDoc"/>
+		<section name="projects">
+			<section name="Pong Teaching">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Pong Teaching/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Pong Teaching/javadoc.xml"/>
+			</section>
+			<section name="Java1-7 Teaching">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java1-7 Teaching/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java1-7 Teaching/javadoc.xml"/>
+			</section>
+			<section name="Interviews">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Interviews/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Interviews/javadoc.xml"/>
+			</section>
+			<section name="PublicPrivateProtectedPackage">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/PublicPrivateProtectedPackage/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/PublicPrivateProtectedPackage/javadoc.xml"/>
+			</section>
+			<section name="USACO">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/USACO/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/USACO/javadoc.xml"/>
+			</section>
+			<section name="Jave2-10">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Jave2-10/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Jave2-10/javadoc.xml"/>
+			</section>
+			<section name="Java1-7">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java1-7/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java1-7/javadoc.xml"/>
+			</section>
+			<section name="Java2-3 Teaching">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java2-3 Teaching/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java2-3 Teaching/javadoc.xml"/>
+			</section>
+			<section name="CCC">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/CCC/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/CCC/javadoc.xml"/>
+			</section>
+			<section name="Java 1-9">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java 1-9/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java 1-9/javadoc.xml"/>
+			</section>
+			<section name="Java 1-9 Teaching">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java 1-9 Teaching/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java 1-9 Teaching/javadoc.xml"/>
+			</section>
+			<section name="Java2-7">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java2-7/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java2-7/javadoc.xml"/>
+			</section>
+			<section name="Platformer">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Platformer/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Platformer/javadoc.xml"/>
+			</section>
+			<section name="JavaAP">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java3/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/JavaAP/javadoc.xml"/>
+			</section>
+			<section name="Java1-11 Teaching">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java1-11 Teaching/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java1-11 Teaching/javadoc.xml"/>
+			</section>
+			<section name="Java2-7 Teaching">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java2-7 Teaching/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java2-7 Teaching/javadoc.xml"/>
+			</section>
+			<section name="Java1-5">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java1-5/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java1-5/javadoc.xml"/>
+			</section>
+			<section name="Java2-4">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java2-4/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java2-4/javadoc.xml"/>
+			</section>
+			<section name="Pong">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Pong/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Pong/javadoc.xml"/>
+			</section>
+			<section name="Pong Teaching 2">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Pong Teaching 2/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Pong Teaching 2/javadoc.xml"/>
+			</section>
+			<section name="Platformer Teaching">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Platformer Teaching/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Platformer Teaching/javadoc.xml"/>
+			</section>
+			<section name="Java1Sub">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java1Sub/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java1Sub/javadoc.xml"/>
+			</section>
+			<section name="D103_Kenny_Cheung_Milstone4_301254703">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/D103_Kenny_Cheung_Milstone4_301254703/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/D103_Kenny_Cheung_Milstone4_301254703/javadoc.xml"/>
+			</section>
+			<section name="Java 1-10 Teaching">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java 1-10 Teaching/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java 1-10 Teaching/javadoc.xml"/>
+			</section>
+			<section name="Java1-6">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java1-6/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java1-6/javadoc.xml"/>
+			</section>
+			<section name="Java2-5">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java2-5/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java2-5/javadoc.xml"/>
+			</section>
+			<section name="Java2-1 Teaching">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java2-1 Teaching/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java2-1 Teaching/javadoc.xml"/>
+			</section>
+			<section name="RacingGame">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/RacingGame/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/RacingGame/javadoc.xml"/>
+			</section>
+			<section name="SwingExample">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/SwingExample/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/SwingExample/javadoc.xml"/>
+			</section>
+			<section name="Java1-3">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java1-3/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java1-3/javadoc.xml"/>
+			</section>
+			<section name="Java2-2">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java2-2/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java2-2/javadoc.xml"/>
+			</section>
+			<section name="JavaTest">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/JavaTest/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/JavaTest/javadoc.xml"/>
+			</section>
+			<section name="Java2April2022">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java2April2022/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java2April2022/javadoc.xml"/>
+			</section>
+			<section name="LukeChess">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/LukeChess/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/LukeChess/javadoc.xml"/>
+			</section>
+			<section name="Java1-6 Teaching">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java1-6 Teaching/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java1-6 Teaching/javadoc.xml"/>
+			</section>
+			<section name="Java2-5 Teaching">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java2-5 Teaching/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java2-5 Teaching/javadoc.xml"/>
+			</section>
+			<section name="Java1-4">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java1-4/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java1-4/javadoc.xml"/>
+			</section>
+			<section name="Java2-3">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java2-3/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java2-3/javadoc.xml"/>
+			</section>
+			<section name="Java 1-8">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java 1-8/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java 1-8/javadoc.xml"/>
+			</section>
+			<section name="Java 1-11">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java 1-11/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java 1-11/javadoc.xml"/>
+			</section>
+			<section name="CCC Teaching">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/CCC Teaching/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/CCC Teaching/javadoc.xml"/>
+			</section>
+			<section name="Java2-2 Teaching">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java2-2 Teaching/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java2-2 Teaching/javadoc.xml"/>
+			</section>
+			<section name="Java1-1">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/TestJavaDoc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java1-1/javadoc.xml"/>
+			</section>
+			<section name="JavaJames">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/JavaJames/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/JavaJames/javadoc.xml"/>
+			</section>
+			<section name="Java 1-10">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java 1-10/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java 1-10/javadoc.xml"/>
+			</section>
+			<section name="LindsayJava">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/LindsayJava/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/LindsayJava/javadoc.xml"/>
+			</section>
+			<section name="Random">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Random/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Random/javadoc.xml"/>
+			</section>
+			<section name="Java1-2">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java1-2/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java1-2/javadoc.xml"/>
+			</section>
+			<section name="Java2-1">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java2-1/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java2-1/javadoc.xml"/>
+			</section>
+			<section name="Java1March2022">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java1March2022/doc"/>
+				<item key="antpath" value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java1March2022/javadoc.xml"/>
+			</section>
+		</section>
+	</section>
+	<section name="RenameInformationPopup">
+	</section>
+	<section name="DialogBounds_GenerateHashCodeEqualsDialog">
+		<item key="DIALOG_X_ORIGIN" value="257"/>
+		<item key="DIALOG_Y_ORIGIN" value="136"/>
+		<item key="DIALOG_WIDTH" value="555"/>
+		<item key="DIALOG_HEIGHT" value="531"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+	<section name="AddGetterSetterDialog">
+		<item key="SortOrdering" value="false"/>
+		<item key="RemoveFinal" value="false"/>
+	</section>
+	<section name="DialogBounds_GetterSetterTreeSelectionDialog">
+		<item key="DIALOG_X_ORIGIN" value="408"/>
+		<item key="DIALOG_Y_ORIGIN" value="123"/>
+		<item key="DIALOG_WIDTH" value="560"/>
+		<item key="DIALOG_HEIGHT" value="639"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+	<section name="BuildPathsPropertyPage">
+		<item key="pageIndex" value="3"/>
+	</section>
+	<section name="ClasspathContainerSelectionPage">
+		<item key="index" value="0"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.dialogs.OpenTypeSelectionDialog2">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;History/&gt;"/>
+	</section>
+	<section name="DialogBounds_SuperInterfaceSelectionDialog">
+		<item key="DIALOG_X_ORIGIN" value="99"/>
+		<item key="DIALOG_Y_ORIGIN" value="15"/>
+		<item key="DIALOG_WIDTH" value="394"/>
+		<item key="DIALOG_HEIGHT" value="455"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+	<section name="SourceActionDialog.constructors">
+		<item key="VisibilityModifier" value="1"/>
+		<item key="FinalModifier" value="false"/>
+		<item key="SynchronizedModifier" value="false"/>
+		<item key="Comments" value="false"/>
+	</section>
+	<section name="GenerateConstructorUsingFieldsSelectionDialog">
+		<item key="OmitCallToSuper" value="false"/>
+	</section>
+	<section name="DialogBounds_GenerateConstructorUsingFieldsSelectionDialog">
+		<item key="DIALOG_X_ORIGIN" value="443"/>
+		<item key="DIALOG_Y_ORIGIN" value="26"/>
+		<item key="DIALOG_WIDTH" value="555"/>
+		<item key="DIALOG_HEIGHT" value="618"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+	<section name="SearchInDialog">
+		<item key="SearchInSources" value="true"/>
+		<item key="SearchInProjects" value="true"/>
+		<item key="SearchInJRE" value="true"/>
+		<item key="SearchInAppLibs" value="true"/>
+	</section>
+	<section name="CallHierarchySearchScope">
+	</section>
+	<section name="SelfEncapsulateFieldWizard">
+		<item key="GenerateJavadoc" value="false"/>
+	</section>
+	<section name="BreadcrumbItemDropDown">
+	</section>
+</section>

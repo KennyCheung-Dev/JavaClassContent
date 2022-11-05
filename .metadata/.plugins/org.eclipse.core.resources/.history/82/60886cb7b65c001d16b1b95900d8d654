@@ -1,0 +1,29 @@
+package usaco;
+
+import java.util.LinkedList;
+
+public class LinkedListTests {
+
+	public static void main(String[] args) {
+		MyLinkedList<Integer> ll = new MyLinkedList<Integer>();
+		LinkedList<Integer> javaLl = new LinkedList<Integer>();
+		
+		ll.AddToEnd(1);
+		ll.AddToEnd(2);
+		ll.AddToEnd(3);
+		ll.AddToEnd(4);
+		ll.AddToEnd(5);
+		
+		System.out.println(ll);
+		
+		System.out.println(javaLl);
+		javaLl.add(5);
+		System.out.println(javaLl);
+		javaLl.add(10);
+		System.out.println(javaLl);
+	}
+	
+	public static MyLinkedList ReverseLinkedList(MyLinkedList ll) {
+		return ll;
+	}
+}

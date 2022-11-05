@@ -1,0 +1,41 @@
+package main;
+
+public class Main15 {
+
+	public static void main(String[] args) {
+		
+		int ageOfBaby = 5; //Age Of Baby
+		boolean lightsOn = false;
+		float money = 10.9f;
+		double yourMoney = 0.0;
+		String name = "90";
+		
+		int intVar = 105;
+		float floatVar = 1.2f;
+		double doubleVar = 2.04123903819728479380219;
+		
+		//String to Numbers
+//		doubleVar = Double.parseDouble(name);
+//		floatVar = Float.parseFloat(name);
+//		intVar = Integer.parseInt(name);
+//		System.out.println(doubleVar);
+//		System.out.println(floatVar);
+//		System.out.println(intVar);
+		
+		//Numbers to String
+		String numConverted = "";
+		numConverted = String.valueOf(doubleVar);
+		System.out.println(numConverted);
+		
+		System.out.print("Hi");
+		System.out.print("Hello");
+		System.out.print("Hi");
+		System.out.print("Hello");
+		System.out.println();
+		System.out.print("Hi");
+		System.out.print("Hello");
+		System.out.print("Hi");
+		System.out.print("Hello");
+		
+	}
+}

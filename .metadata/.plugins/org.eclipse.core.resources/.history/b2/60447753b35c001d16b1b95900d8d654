@@ -1,0 +1,57 @@
+package usaco;
+
+public class KennyLinkedList<TObject> {
+	
+	Node<TObject> head;
+	
+	public class Node<TData> {
+		Node<TData> next;
+		TData data;
+		
+		public Node(TData data, Node<TData> next) {
+			this.data = data;
+			this.next = next;
+		}
+	}
+	
+	private Node<TObject> GetFirstNode() {
+		return head;
+	}
+	
+	private Node<TObject> GetLastNode() {
+		Node<TObject> temp = head; //Could be null
+		while (temp.next != null) {
+			temp = head.next;
+		}
+		return temp; //Could return null
+	}
+	
+	
+    public void AddToEnd(TObject data) {
+    	Node<TObject> last = GetLastNode();
+    	Node<TObject> newNode = new Node<>(data, null);
+        last = newNode;
+        if (last == null)
+            first = newNode;
+        else
+            l.next = newNode;
+        size++;
+        modCount++;
+    }
+
+    /**
+     * Inserts element e before non-null Node succ.
+     */
+    void linkBefore(TObject e, Node<TObject> succ) {
+        // assert succ != null;
+        final Node<TObject> pred = succ.prev;
+        final Node<TObject> newNode = new Node<TObject>(pred, e, succ);
+        succ.prev = newNode;
+        if (pred == null)
+            first = newNode;
+        else
+            pred.next = newNode;
+        size++;
+        modCount++;
+    }
+}

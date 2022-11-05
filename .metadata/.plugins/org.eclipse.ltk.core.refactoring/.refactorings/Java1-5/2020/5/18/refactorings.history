@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;Main&apos; to &apos;maincodes&apos;&#x0A;- Original project: &apos;Java1-5&apos;&#x0A;- Original element: &apos;Java1-5/src/Main&apos;&#x0A;- Renamed element: &apos;Java1-5/src/maincodes&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;Main&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;Main" name="maincodes" qualified="false" references="true" stamp="1588384531546" textual="false" version="1.0"/>
+</session>

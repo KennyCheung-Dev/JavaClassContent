@@ -1,0 +1,28 @@
+package main;
+
+import java.util.ArrayList;
+import java.util.Stack;
+public class Main15 {
+	
+	public static void main(String[] args) {
+		
+		
+		//Create an array of integer of size 1000, 
+		//Fill it up with 0, 1, 2, 3, 4, 5, .... 999
+		
+		String[] nameList = new String[3];
+		nameList[0] = "Kenny";
+		nameList[1] = "Rivers";
+		nameList[2] = "James";
+		
+		
+		for (int i = 0; i < nameList.length; i++) {
+			System.out.println(nameList[i]);
+		}
+		
+		for (String name : nameList) {
+			System.out.println(name);
+		}
+		
+	}
+ }

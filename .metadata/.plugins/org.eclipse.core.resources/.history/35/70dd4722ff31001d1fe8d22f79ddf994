@@ -1,0 +1,79 @@
+package main;
+
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Scanner;
+import java.util.TreeMap;
+
+public class Main15 {
+
+	public static void main(String[] args) {
+		
+//		int ageOfBaby = 5; //Age Of Baby
+//		boolean lightsOn = false;
+//		float money = 10.9f;
+//		double yourMoney = 0.0;
+//		String name = "90";
+//		
+//		int intVar = 105;
+//		float floatVar = 1.2f;
+//		double doubleVar = 2.04123903819728479380219;
+		
+		//String to Numbers
+//		doubleVar = Double.parseDouble(name);
+//		floatVar = Float.parseFloat(name);
+//		intVar = Integer.parseInt(name);
+//		System.out.println(doubleVar);
+//		System.out.println(floatVar);
+//		System.out.println(intVar);
+		
+		//Numbers to String
+//		String numConverted = "";
+//		numConverted = String.valueOf(doubleVar);
+//		System.out.println(numConverted);
+//		
+//		System.out.print("Hi");
+//		System.out.print("Hello");
+//		System.out.print("Hi");
+//		System.out.print("Hello");
+//		System.out.println();
+//		System.out.print("Hi");
+//		System.out.print("Hello");
+//		System.out.print("Hi");
+//		System.out.print("Hello");
+		
+//		HashMap<String, Integer> dict = new HashMap<String, Integer>();
+//		dict.put("WordsThatsFunny", 0);
+//		dict.put("Danny's Skill", 0);
+//		dict.put("Rex's need Help", 100);
+//		
+//		for (Map.Entry<String, Integer> entry : dict.entrySet()) {
+//			System.out.println(entry.getKey() + " " + entry.getValue());
+//		}
+		
+		
+//1 15
+//5 2
+//2 3
+//4 6
+//3 3
+		
+//		Scanner sc = new Scanner(System.in);
+//		
+//		TreeMap<Integer, Integer> dict2 = new TreeMap<Integer, Integer>();
+//		for (int j = 0; j < 5; j++) {
+//			String s = sc.nextLine();
+//			String[] splitted = s.split(" ");
+//			int[] splittedEntries = new int[2];
+//			for (int i = 0; i < 2; i++) {
+//				splittedEntries[i] = Integer.parseInt(splitted[i]);
+//			}
+//			dict2.put(splittedEntries[0], splittedEntries[1]);
+//		}
+//		for (Map.Entry<Integer, Integer> entry : dict2.entrySet()) {
+//			System.out.println(entry.getKey() + " " + entry.getValue());
+//		}
+		
+		System.out.println("a".compareTo("c"));
+	}
+}

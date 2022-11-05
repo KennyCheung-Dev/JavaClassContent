@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Cars.Pagani&apos; to &apos;RaceCar&apos;&#x0A;- Original project: &apos;RacingGame&apos;&#x0A;- Original element: &apos;Cars.Pagani&apos;&#x0A;- Renamed element: &apos;Cars.RaceCar&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Pagani&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Cars{Pagani.java[Pagani" matchStrategy="1" name="RaceCar" qualified="false" references="true" similarDeclarations="false" stamp="1593219328317" textual="false" version="1.0"/>
+</session>

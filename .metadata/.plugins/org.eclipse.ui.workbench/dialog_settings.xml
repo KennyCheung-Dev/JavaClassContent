@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.preferences.keysPreferencePage">
+		<item key="actionSetFilter" value="true"/>
+		<item key="internalFilter" value="true"/>
+		<item key="uncategorizedFilter" value="true"/>
+	</section>
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.ui.wizards.export.ZipFile"/>
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.ExternalProject"/>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="ZipFileExportWizard">
+		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
+		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="/Users/kenny/Desktop/CCCJava.zip"/>
+			<item value="/Users/kenny/Desktop/CCC1.zip"/>
+			<item value="/Users/kenny/Desktop/Platformer.zip"/>
+			<item value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Pong.zip"/>
+			<item value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java2-7.zip"/>
+			<item value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java2-3.zip"/>
+			<item value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java2-2.zip"/>
+			<item value="/Users/kenny/Desktop/YSA/Java1WorkSpace/RacingGame.zip"/>
+			<item value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java1-11.zip"/>
+			<item value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java1-9.zip"/>
+			<item value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java1-8.zip"/>
+			<item value="/Users/kenny/Desktop/YSA/Java1WorkSpace/Java1-7.zip"/>
+			<item value="/Users/kenny/Desktop/YSA/Java1 Archive/Java1-5.zip"/>
+			<item value="/Users/kenny/Desktop/YSA/Java1 Archive/Java1-4.zip"/>
+			<item value="/Users/kenny/Desktop/YSA/Java1 Archive/Java1-3.zip"/>
+			<item value="/Users/kenny/Desktop/YSA/Java1 Archive/Java1-2.zip"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+</section>

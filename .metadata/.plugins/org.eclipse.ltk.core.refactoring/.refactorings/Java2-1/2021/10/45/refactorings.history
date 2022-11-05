@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;flyingObjects&apos; in &apos;InheritanceExamples.InheritanceMain.main(...)&apos; to &apos;flyingObjects&apos;&#x0A;- Original project: &apos;Java2-1&apos;&#x0A;- Original element: &apos;InheritanceExamples.InheritanceMain.main(String[]).flyingObject&apos;&#x0A;- Renamed element: &apos;flyingObjects&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;flyingObjects&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;InheritanceExamples{InheritanceMain.java[InheritanceMain~main~\[QString;@flyingObject!1482!1552!1507!1518!QArrayList\&lt;QIFlyingObject;&gt;;!0!false" name="flyingObjects" references="true" stamp="1635722807940" version="1.0"/>
+</session>

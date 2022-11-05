@@ -1,0 +1,2 @@
+module kennyjava3 {
+}

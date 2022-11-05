@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;BaseSystem.java&apos; to &apos;Java1-7/src/maincodes&apos;&#x0A;- Original project: &apos;Java1-6&apos;&#x0A;- Destination element: &apos;Java1-7/src/maincodes&apos;&#x0A;- Original element: &apos;maincodes.BaseSystem.java&apos;" description="Copy compilation unit" destination="=Java1-7/src&lt;maincodes" element1="/src&lt;maincodes{BaseSystem.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1589584173032" units="1" version="1.0"/>
+</session>

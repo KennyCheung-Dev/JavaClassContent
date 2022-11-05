@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;shortPattern&apos; in &apos;CCC21_teaching.CCC2010J4_GlobalWarming.main(...)&apos; to &apos;shortestPattern&apos;&#x0A;- Original project: &apos;CCC Teaching&apos;&#x0A;- Original element: &apos;CCC21_teaching.CCC2010J4_GlobalWarming.main(String[]).shortPattern&apos;&#x0A;- Renamed element: &apos;shortPattern&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;shortPattern&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;CCC21_teaching{CCC2010J4_GlobalWarming.java[CCC2010J4_GlobalWarming~main~\[QString;@shortPattern!680!713!684!695!I!0!false" name="shortestPattern" references="true" stamp="1612734157722" version="1.0"/>
+</session>

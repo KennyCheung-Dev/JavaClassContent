@@ -1,0 +1,13 @@
+package usaco;
+
+import java.util.LinkedList;
+
+public class LinkedListTests {
+
+	public static void main(String[] args) {
+		MyLinkedList<Integer> ll = new MyLinkedList<Integer>();
+		LinkedList<Integer> javaLl = new LinkedList<Integer>();
+		
+		System.out.println(ll);
+	}
+}

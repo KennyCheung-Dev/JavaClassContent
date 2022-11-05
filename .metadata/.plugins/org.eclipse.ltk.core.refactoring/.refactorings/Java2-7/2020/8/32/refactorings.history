@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;Sorting&apos; to &apos;SearchingSorting&apos;&#x0A;- Original project: &apos;Java2-7&apos;&#x0A;- Original element: &apos;Java2-7/src/Sorting&apos;&#x0A;- Renamed element: &apos;Java2-7/src/SearchingSorting&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;Sorting&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;Sorting" name="SearchingSorting" qualified="false" references="true" stamp="1596875435719" textual="false" version="1.0"/>
+</session>

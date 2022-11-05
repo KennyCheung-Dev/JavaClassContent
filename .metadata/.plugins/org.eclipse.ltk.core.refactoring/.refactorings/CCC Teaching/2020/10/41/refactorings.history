@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 2 elements to &apos;CCC/src/CCC4&apos;&#x0A;- Original project: &apos;CCC Teaching&apos;&#x0A;- Destination element: &apos;CCC/src/CCC4&apos;&#x0A;- Original elements:&#x0A;     main.Rovarspraket.java&#x0A;     main.Substring.java&#x0A;- Update references to refactored element" description="Move compilation units" destination="=CCC/src&lt;CCC4" element1="/src&lt;main{Rovarspraket.java" element2="/src&lt;main{Substring.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1602371410330" units="2" version="1.0"/>
+</session>

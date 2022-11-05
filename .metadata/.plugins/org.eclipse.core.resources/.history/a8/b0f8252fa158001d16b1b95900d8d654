@@ -1,0 +1,30 @@
+package main;
+
+import java.util.ArrayList;
+import java.util.Stack;
+public class Main15 {
+	
+	public static void main(String[] args) {
+
+
+		String[] names = new String[12];
+		names[0] = "Kenny";
+		names[1] = "Rivers";
+		names[2] = "James";
+		names[3] = "3";
+		names[4] = "123";
+		names[5] = "15";
+		names[6] = "1234y";
+		names[7] = "ags";
+		names[8] = "Ja12s";
+		names[9] = "Kawegaf";
+		names[10] = "R23";
+		names[11] = "Jlgirhaikewjf";
+		
+		for (int i = 0; i < 12; i++) {
+			System.out.println(names[i]);
+		}
+
+		
+	}
+ }

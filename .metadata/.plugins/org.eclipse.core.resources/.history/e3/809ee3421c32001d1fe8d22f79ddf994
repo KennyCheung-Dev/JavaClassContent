@@ -1,0 +1,112 @@
+package main;
+
+import java.util.HashMap;
+import java.util.LinkedHashMap;
+import java.util.Map;
+import java.util.Scanner;
+import java.util.TreeMap;
+
+public class Main15 {
+
+	public static void main(String[] args) {
+		
+//		int ageOfBaby = 5; //Age Of Baby
+//		boolean lightsOn = false;
+//		float money = 10.9f;
+//		double yourMoney = 0.0;
+//		String name = "90";
+//		
+//		int intVar = 105;
+//		float floatVar = 1.2f;
+//		double doubleVar = 2.04123903819728479380219;
+		
+		//String to Numbers
+//		doubleVar = Double.parseDouble(name);
+//		floatVar = Float.parseFloat(name);
+//		intVar = Integer.parseInt(name);
+//		System.out.println(doubleVar);
+//		System.out.println(floatVar);
+//		System.out.println(intVar);
+		
+		//Numbers to String
+//		String numConverted = "";
+//		numConverted = String.valueOf(doubleVar);
+//		System.out.println(numConverted);
+//		
+//		System.out.print("Hi");
+//		System.out.print("Hello");
+//		System.out.print("Hi");
+//		System.out.print("Hello");
+//		System.out.println();
+//		System.out.print("Hi");
+//		System.out.print("Hello");
+//		System.out.print("Hi");
+//		System.out.print("Hello");
+		
+//		HashMap<String, Integer> dict = new HashMap<String, Integer>();
+//		dict.put("WordsThatsFunny", 0);
+//		dict.put("Danny's Skill", 0);
+//		dict.put("Rex's need Help", 100);
+//		
+//		for (Map.Entry<String, Integer> entry : dict.entrySet()) {
+//			System.out.println(entry.getKey() + " " + entry.getValue());
+//		}
+		
+		
+//1 15
+//5 2
+//2 3
+//4 6
+//3 3
+		
+//		Scanner sc = new Scanner(System.in);
+//		
+//		HashMap<Integer, Integer> dict2 = new HashMap<Integer, Integer>();
+//		for (int j = 0; j < 5; j++) {
+//			String s = sc.nextLine();
+//			String[] splitted = s.split(" ");
+//			int[] splittedEntries = new int[2];
+//			for (int i = 0; i < 2; i++) {
+//				splittedEntries[i] = Integer.parseInt(splitted[i]);
+//			}
+//			dict2.put(splittedEntries[0], splittedEntries[1]);
+//		}
+//		for (Map.Entry<Integer, Integer> entry : dict2.entrySet()) {
+//			System.out.println(entry.getKey() + " " + entry.getValue());
+//		}
+		
+		
+		
+		
+		
+		
+//		int[] first = new int[] { 1, 2, 3, 4, 5 };
+//		int[] second = new int[first.length];
+//		for (int i = 0; i < first.length; i++) {
+//			second[i] = first[i];
+//			System.out.println(second[i]);
+//					
+//		}
+		
+		//Make a method that takes in an array of int as input, then print 2 lines:
+		//Line 1: The sum is : { }
+		//Line 2: The lowest number is : { }
+		//Challenge: see if you can finish with just 1 loop
+		int[] data = new int[] {5, 68, 243, 3, 766, 12, 2, 50 };
+		int n = 0;
+		for (int i = 0; i < data.length; i++) {
+			n = n + data[i];
+		}
+		System.out.println("The sum is: " + n);
+		int s = data[0];
+		int k = 0;
+		while (k < data.length) {
+			if (s > data[k])
+				s = data[k];
+			k++;
+		}
+		System.out.println("The lowest number is: " + s);
+	}
+	
+	
+}

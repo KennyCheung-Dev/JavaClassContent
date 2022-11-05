@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;usaco.KennyLinkedList&apos; to &apos;MyLinkedList&apos;&#x0A;- Original project: &apos;USACO&apos;&#x0A;- Original element: &apos;usaco.KennyLinkedList&apos;&#x0A;- Renamed element: &apos;usaco.MyLinkedList&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;KennyLinkedList&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;usaco{KennyLinkedList.java[KennyLinkedList" matchStrategy="1" name="MyLinkedList" qualified="false" references="true" similarDeclarations="false" stamp="1667616269654" textual="false" version="1.0"/>
+</session>

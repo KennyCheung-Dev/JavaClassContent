@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;CCC6.PolybiusCipher.java&apos; to &apos;PolybiusCipher_answer.java&apos;&#x0A;- Original project: &apos;CCC Teaching&apos;&#x0A;- Original element: &apos;CCC6.PolybiusCipher.java&apos;&#x0A;- Renamed element: &apos;CCC6.PolybiusCipher_answer.java&apos;" description="Rename compilation unit &apos;PolybiusCipher.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;CCC6{PolybiusCipher.java" name="PolybiusCipher_answer.java" references="false" stamp="1603658885842" version="1.0"/>
+</session>
